@@ -115,7 +115,7 @@ def pick_a_card(bet):
             print('You lost.  You lose $'+str(bet)+' and you now have $'+str(money))
         else:
             print('It was a tie.  Nothing happens')
-# In[9]:
+
 
 
 rules('Cho han')
@@ -125,19 +125,11 @@ print()
 cho_han('odd',35)
 
 pick_a_card(160)
-# In[4]:
+
 
 
 pick_a_card(155)
 
-
-# In[3]:
-
-
-def roulette():
-
-
-# In[ ]:
 
 
 
