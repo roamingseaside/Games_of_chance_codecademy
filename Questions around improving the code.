@@ -1,0 +1,10 @@
+Questions:
+
+1.  For a roulette function.  Is there a way to have the user choose what bet they are going to make?
+  a.  i.e., even or odd, but also choose a specific number
+2.  For the pick a card gaame:  
+  a. add functionality to pick again if there is a tie (and double the bet...similar to the Vegas game 'war').
+  b. suspect this would be done with a list, but how do you replecate for a deck of 52 cards versus what is currently being done with 2-14.
+3.  The check money and check bet amount code lines are repeated for each game.
+  a. Is there a way to make this an inner function and then have the function terminate the outer function as well?
+  b. my early attempts would output someehting like "you cant do that" but still run the bet function
